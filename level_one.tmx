@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="51" height="28" tilewidth="16" tileheight="16" infinite="0" nextlayerid="7" nextobjectid="1">
+ <tileset firstgid="1" source="main_tiles.tsx"/>
+ <layer id="1" name="background" width="51" height="28">
+  <data encoding="base64" compression="zlib">
+   eJztVE1LxDAUzN/wthUED4KCF8V7139QLx5aZb229uP320CGnX2bpK9tkF3owKNp+voyk3mJMRs2bNiwYUN63I6RKWKnzNPWSx07sXadWMv3Ak4xDnO0XIovrOcjkZbfMdoFWjR+LN1/rZYYh7W+THH/Uv4XqhPzRf7z6OLJE88KLWs9meo1q8Uk8NcExv8ZwKVpCfXbHC2l+J5foS+F4H0Q4z7wf0l1NFoqz1yRWEsjeNeOJ9/J7BP710xokV7beBnjNcIr1A9N5J21oEdrN2YdBXFqRA2fFt/+c/5+jHfBp/dw1QY4MA/eD9ybHWk6OJ3oOfSHxFwuqGPrPohvlScv1mPcD/CnNUcvenPaKzXp6UinfQ6U+6nUaPf1bYwf91xzXsBB1i898634npF+6Re03NM6lchBX7Ef3GshLxrxBMAXnErBtTCnZ6imNTp6FmIeWm4UvmAcujMzc34X+XwpqQZyoUueidzltC6nI825OZ6vgbTcmXNIDnIuNJ4CcnMT7ikA2gYK7Cfuc5tzIC1L+n/NmVkDeOpD6rViuJb90uAPpp6d0w==
+  </data>
+ </layer>
+ <layer id="4" name="doors" width="51" height="28">
+  <data encoding="base64" compression="zlib">
+   eJztzjEJAAAIADD757CBBa3gIYiwJVgEAAAAAMzkdWBRXQfgoQbpRAFY
+  </data>
+ </layer>
+ <layer id="5" name="lava" width="51" height="28">
+  <data encoding="base64" compression="zlib">
+   eJzt0MEJACAMA8DuP4E4mK6jC1jwofRxB4GQZyIAAAAAgN/Gzky2U6+o7fRkO/XXqv924+dvmQUtow5c
+  </data>
+ </layer>
+ <layer id="3" name="ladders" width="51" height="28">
+  <data encoding="base64" compression="zlib">
+   eJztz0ENACAMBMEqxwFKMIkFHk2uITMKdqsAAAAA3q10QKOdDmjkZaafXk46gBEuRZsDXg==
+  </data>
+ </layer>
+ <layer id="2" name="walls" width="51" height="28">
+  <data encoding="base64" compression="zlib">
+   eJztkl0KgCAQhPcK2QW2CHys7n+5lFwIf6LEFaL5YFBwHZ1liQAAAAAAAAAxcwMPbuxX+wdkSX0EZGnzB2RJfYSvZ1mdtqC9gV8NTPp9HJyM06j8DpN+Fg5rj3f+mMXPSs2ccFgtnbMWz1tuBk1hL7U5LfQ8C7+oje/14tqvO9lCba7HuTPPpKweaGcQHUKEEBw=
+  </data>
+ </layer>
+ <layer id="6" name="collision" width="51" height="28" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztkkEKACAIBPv/Y3pj1yglMdtLMxBJh9WRWgMAAAAAgJVenFGRl50Blz3HqpXgYudYtRJc/JyqvJsZFD1UfV73mO+XfX50yXrPLtZ/8968+nSiM924KIi4RneR3RPsDG/nPS0=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,37 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "mail_tiles.tsx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "mail_tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "main_tiles.tsx": {
+            "dynamicWrapping": false
+        }
+    },
+    "last.imagePath": "D:/Arcade",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": "3",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "mail_tiles.tsx"
+    ],
+    "project": "level1.tiled-project",
+    "recentFiles": [
+        "mail_tiles.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
